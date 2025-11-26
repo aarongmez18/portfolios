@@ -1,0 +1,122 @@
+{
+  "commands": {
+    "help": {
+  "description": "Lista todos los comandos disponibles.",
+  "category": "system",
+  "usage": "help",
+  "output": [
+    "CD &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muestra el nombre del directorio actual o cambia a otro directorio.",
+    "CLS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Borra la pantalla.",
+    "COLOR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Establece los colores de primer plano y fondo predeterminados de la consola.",
+    "CONTACT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abre el formulario de contacto.",
+    "DATE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muestra o establece la fecha.",
+    "DIR &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muestra una lista de archivos y subdirectorios en un directorio.",
+    "ECHO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Imprime un texto en pantalla.",
+    "HELP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proporciona información de Ayuda para los comandos de Windows.",
+    "HOSTNAME &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muestra el nombre del equipo.",
+    "IPCONFIG &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muestra la configuración de red.",
+    "PROJECT &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muestra información de un proyecto específico.",
+    "PING &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Simula un ping a una dirección.",
+    "SYSTEMINFO &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muestra información del sistema.",
+    "TREE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muestra gráficamente la estructura de directorios de una unidad o ruta de acceso.",
+    "TYPE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muestra el contenido de un archivo.",
+    "WHOAMI &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Muestra el usuario actual."
+  ]
+}
+,
+    "color": {
+  "description": "Cambia el color del texto y fondo del terminal.",
+  "category": "system",
+  "usage": "color <fondo><texto>",
+  "dynamic": true
+},
+
+    "tree": {
+      "description": "Muestra gráficamente la estructura de directorios.",
+      "category": "file-system",
+      "usage": "tree",
+      "dynamic": true
+    },
+    "cls": {
+      "description": "Limpia la pantalla.",
+      "category": "system",
+      "usage": "cls",
+      "output": [
+        "__CLEAR__"
+      ]
+    },
+    "project": {
+      "description": "Muestra información de un proyecto específico.",
+      "category": "portfolio",
+      "usage": "project <nombre>",
+      "dynamic": true
+    },
+    "contact": {
+      "description": "Abre el formulario de contacto",
+      "dynamic": true
+    },
+    "date": {
+      "description": "Muestra la fecha actual.",
+      "category": "system",
+      "usage": "date",
+      "output": [
+        "__DATE__"
+      ]
+    },
+    "echo": {
+      "description": "Imprime un texto.",
+      "category": "utility",
+      "usage": "echo <texto>",
+      "dynamic": true
+    },
+    "dir": {
+      "description": "Lista archivos del directorio actual.",
+      "category": "file-system",
+      "usage": "dir",
+      "dynamic": true
+    },
+    "cd": {
+      "description": "Cambia de directorio.",
+      "category": "file-system",
+      "usage": "cd <folder>",
+      "dynamic": true
+    },
+    "type": {
+      "description": "Muestra el contenido de un archivo.",
+      "category": "file-system",
+      "usage": "type <archivo>",
+      "dynamic": true
+    },
+  "whoami": {
+    "description": "Muestra el usuario actual.",
+    "category": "system",
+    "usage": "whoami",
+    "dynamic": true
+  },
+  "hostname": {
+    "description": "Muestra el nombre del equipo.",
+    "category": "system",
+    "usage": "hostname",
+    "dynamic": true
+  },
+  "ping": {
+    "description": "Simula un ping a una dirección.",
+    "category": "network",
+    "usage": "ping <host>",
+    "dynamic": true
+  },
+  "ipconfig": {
+    "description": "Muestra la configuración de red.",
+    "category": "network",
+    "usage": "ipconfig",
+    "dynamic": true
+  },
+  "systeminfo": {
+    "description": "Muestra información del sistema.",
+    "category": "system",
+    "usage": "systeminfo",
+    "dynamic": true
+  }
+  
+  }
+}

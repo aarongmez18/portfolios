@@ -1,0 +1,40 @@
+ &nbsp;&nbsp;&nbsp;██ ▄████▄ ██ &nbsp;██ ▄████▄ &nbsp;&nbsp;▄████▄ ██ &nbsp;&nbsp;&nbsp;&nbsp;▄████ &nbsp;▄████▄ █████▄ &nbsp;██ ██████ ██ &nbsp;██ ██▄&nbsp;&nbsp;▄██ ▄█████ 
+ &nbsp;&nbsp;&nbsp;██ ██▄▄██ ██▄▄██ ██▄▄██ &nbsp;&nbsp;██▄▄██ ██ &nbsp;&nbsp;&nbsp;██ &nbsp;▄▄▄ ██ &nbsp;██ ██▄▄██▄ ██ &nbsp;&nbsp;██ &nbsp;&nbsp;██████ ██ ▀▀ ██ ▀▀▀▄▄▄ 
+████▀ ██ &nbsp;██ &nbsp;▀██▀&nbsp;&nbsp;██ &nbsp;██ &nbsp;&nbsp;██ &nbsp;██ ██████ ▀███▀ &nbsp;▀████▀ ██ &nbsp;&nbsp;██ ██ &nbsp;&nbsp;██ &nbsp;&nbsp;██ &nbsp;██ ██ &nbsp;&nbsp;&nbsp;██ █████▀ 
+
+Fecha: Abril 2025.      
+
+Descripción:
+-------------
+Este proyecto tiene como objetivo comparar el rendimiento de diferentes
+algoritmos de ordenación utilizando una implementación en Java. Se han
+desarrollado e integrado los algoritmos de Bubble Sort, Quick Sort, Merge Sort
+y Heap Sort, midiendo su tiempo de ejecución para evaluar su eficiencia con
+un conjunto de datos aleatorio.
+
+Funcionalidades principales:
+-----------------------------
+- Generación de un array de números aleatorios de gran tamaño.
+- Creación de copias del array para cada algoritmo de ordenación.
+- Ejecución de Bubble Sort, Quick Sort, Merge Sort y Heap Sort.
+- Medición del tiempo de ejecución en milisegundos para cada algoritmo.
+- Verificación de que todos los arrays quedan correctamente ordenados.
+- Impresión de resultados y comparación de rendimiento.
+
+Tecnologías y aptitudes utilizadas:
+-----------------------------------
+- Java 21
+- Programación orientada a objetos (OOP)
+- Estructuras de datos y algoritmos
+- Gestión de arrays y colecciones
+- Medición y análisis de rendimiento (Benchmarking)
+
+Objetivo:
+----------
+Este proyecto tiene fines educativos y de investigación, mostrando cómo
+diferentes algoritmos de ordenación se comportan frente a conjuntos de
+datos de gran tamaño y cómo analizar su eficiencia.
+
+Enlace al repositorio:
+----------------------
+No disponible

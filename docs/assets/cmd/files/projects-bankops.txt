@@ -1,0 +1,53 @@
+█████▄ &nbsp;▄▄▄ &nbsp;▄▄ &nbsp;▄▄ ▄▄ ▄▄ ▄████▄ ▄▄▄▄ &nbsp;&nbsp;▄▄▄▄ 
+██▄▄██ ██▀██ ███▄██ ██▄█▀ ██ &nbsp;██ ██▄█▀ ███▄▄ 
+██▄▄█▀ ██▀██ ██ ▀██ ██ ██ ▀████▀ ██ &nbsp;&nbsp;&nbsp;▄▄██▀ 
+
+Fecha: Febrero 2025 - Marzo 2025.
+
+Descripción:
+-------------
+Desarrollé una aplicación de servicios financieros como parte del reto de
+CaixaBank, implementando funcionalidades clave para la gestión de cuentas,
+seguridad de transacciones y eficiencia operativa en un entorno digital.
+Este proyecto simula escenarios y requisitos del mundo real.
+
+Funcionalidades principales:
+-----------------------------
+- Construcción de endpoints de registro y autenticación de usuarios.
+- Gestión de transacciones financieras.
+- Monitoreo y prevención de fraudes.
+- Manejo de cuentas de inversión y saldos.
+- Simulación de escenarios del mundo real para pruebas operativas.
+- Seguridad y control de acceso mediante Spring Security.
+
+Tecnologías y aptitudes utilizadas:
+-----------------------------------
+- Java 21
+- Spring Boot
+- Spring Security
+- Spring JPA
+- Microservicios
+- TestContainers
+- JUnit
+- Maven
+- Servicios web RESTful
+- Desarrollo de API
+- Hibernate
+- Spring Security
+- Docker
+- Swagger
+- Postman
+- Arquitectura Hexagonal
+- Spring Boot
+- PostgreSQL
+- + Otros
+
+Objetivo:
+----------
+Este proyecto tiene fines de demostración profesional,
+mostrando cómo construir una aplicación financiera segura y eficiente en
+un entorno digital moderno.
+
+Enlace al repositorio:
+----------------------
+No disponible

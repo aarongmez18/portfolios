@@ -1,0 +1,29 @@
+
+ ▄████▄ █████▄ ▄████▄ ██ &nbsp;██ ██████ &nbsp; ██▄ &nbsp;▄██ ██████
+██▄▄██ ██▄▄██ ██ &nbsp;██ ██ &nbsp;██ &nbsp;&nbsp;██ &nbsp; &nbsp; ██ ▀▀ ██ ██▄▄  
+██ &nbsp;██ ██▄▄█▀ ▀████▀ ▀████▀  &nbsp; ██ &nbsp; &nbsp; ██ &nbsp;&nbsp; ██ ██▄▄▄▄
+                                                     
+
+Hola bienvenido/a a mi portafolios personal!
+
+Mi nombre es Aarón Gómez Delgado, un joven que nació el día 5 de enero (Un dia que para mi es muy especial) ilusionado por el mundo de la informática.
+Además, vivo en España pero me encantaria explorar todo el mundo :D, concretamente resido en Sevilla (Un lugar precioso si nunca lo has visitado)
+
+Desde pequeño, mi padre me enseñaba cosas de informática, aunque hasta los 18 años no empecé a apasionarme realmente por ello y a explorar todo lo que podía crear con la tecnología.
+Mi lenguaje favorito es Java, y trato de no malgastar mi tiempo, porque para mí la programación es como un juego: explorar, crear y mejorar constantemente.
+¿Como conoci Java? Obviamente siendo friki...Por un videojuego, concretamente hablamos del famoso Minecraft, donde te enseña la POO y las herencias, además de crear servidores,
+pero me sirvio bastante como para iniciarme en este mundo tan especial y unico.
+
+Me he dedicado tanto a programar como Fullstack, pero lo que realmente me apasiona es aprender, conocer gente y compartir proyectos e ideas.
+Si no eres muy fan de la informática o nunca te han gustado las terminales, sé que este portafolio puede parecer un poco extraño al principio jeje.
+El propósito de este portafolio es mostrar mi trabajo y habilidades de una manera única y divertida, combinando creatividad y tecnología, (entiendo que no es una terminal perfecta pero entretiene),
+además la importancia de esto es revelar como eres realmente :P
+
+Me gusta mantenerme actualizado con las últimas tecnologías y herramientas, lo que me permite ofrecer soluciones modernas y eficientes en todos mis proyectos.
+Además de programar, me apasiona colaborar en comunidades, compartir conocimientos y aprender de otros desarrolladores. Creo que la colaboración y la curiosidad son claves para crecer profesionalmente. Siempre busco desafíos que me obliguen a salir de mi zona de confort y mejorar mis habilidades, ya que considero que cada proyecto es una oportunidad para aprender algo nuevo.
+
+Finalmente, este portafolio es solo una parte de mi camino profesional y personal: un reflejo de mi creatividad, pasión por la tecnología y el deseo de conectar con personas que compartan mis intereses. Si quieres ver mis redes sociales y hablar un poco de mí, visita el apartado contact para saber más.
+
+Te agradezco enormemente por interesarte en conocerme y ver este pequeño proyecto personal.
+
+Aarón Gómez Delgado.

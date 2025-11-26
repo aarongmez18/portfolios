@@ -1,0 +1,42 @@
+█████▄ ▄████▄ █████▄ &nbsp;██████ ▄████▄ ██████ ▄████▄ ██ &nbsp;&nbsp;&nbsp; ██ ▄████▄ ▄█████ 
+██▄▄█▀ ██ &nbsp;██ ██▄▄██▄ &nbsp;&nbsp;██ &nbsp;&nbsp;██▄▄██ ██▄▄ &nbsp;&nbsp;██ &nbsp;██ ██ &nbsp;&nbsp;&nbsp; ██ ██ &nbsp;██ ▀▀▀▄▄▄ 
+██ &nbsp;&nbsp;&nbsp;&nbsp;▀████▀ ██ &nbsp;&nbsp;██ &nbsp;&nbsp;██ &nbsp;&nbsp;██ &nbsp;██ ██ &nbsp;&nbsp;&nbsp;&nbsp;▀████▀ ██████ ██ ▀████▀ █████▀ 
+
+Fecha: Octubre 2025 - Diciembre 2025.
+
+Descripción:
+-------------
+Este proyecto es una simulación de una terminal de comandos estilo Windows/CMD
+desarrollada en Angular. Su objetivo es ofrecer una experiencia interactiva
+dentro de un navegador, permitiendo a los usuarios ejecutar comandos
+ficticios y explorar un sistema de archivos simulado.
+
+Funcionalidades principales:
+-----------------------------
+- Comandos básicos: cd, dir, tree, type, echo, color, help.
+- Comandos de información: whoami, hostname, ping, ipconfig, systeminfo.
+- Simulación de filesystem con carpetas y archivos (.txt).
+- Sistema de tips aleatorios para mejorar la experiencia del usuario.
+- Formulario de contacto integrado usando EmailJS.
+- Renderizado de archivos de texto con información del portfolio.
+- Simulación de navegación con rutas relativas y absolutas.
+- Salida estilizada tipo terminal con colores y formato CMD.
+
+Tecnologías utilizadas:
+-----------------------
+- Angular 16
+- TypeScript
+- NgOnInit
+- HttpClient para cargar filesystem y archivos .txt
+- EmailJS para el envío de formularios de contacto
+- CSS/SCSS para diseño y estilo tipo terminal.
+
+Objetivo:
+----------
+Este proyecto tiene fines educativos y de demostración, mostrando cómo
+se puede recrear una terminal interactiva en un entorno web.
+
+Enlace al repositorio:
+----------------------
+No disponible
+

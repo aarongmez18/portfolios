@@ -16,7 +16,7 @@ import { ContactFormComponent } from './pages/portafolios/contact-form/contact-f
     AppComponent,
     LoadingComponent,
     TerminalComponent,
-    ContactFormComponent,
+    ContactFormComponent
   ],
   imports: [
     BrowserModule,

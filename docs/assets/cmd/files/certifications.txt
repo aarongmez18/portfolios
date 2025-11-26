@@ -1,0 +1,17 @@
+&nbsp;▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄ &nbsp;▄▄▄▄▄▄ ▄▄ ▄▄▄▄▄ ▄▄ &nbsp;▄▄▄▄ &nbsp;▄▄▄ ▄▄▄▄▄▄ ▄▄ &nbsp;▄▄▄ &nbsp;▄▄ &nbsp;▄▄&nbsp;&nbsp;▄▄▄▄ 
+██▀▀▀ ██▄▄ &nbsp;██▄█▄ &nbsp;&nbsp;██ &nbsp;&nbsp;██ ██▄▄ &nbsp;██ ██▀▀▀ ██▀██ &nbsp;██ &nbsp;&nbsp;██ ██▀██ ███▄██ ███▄▄ 
+▀████ ██▄▄▄ ██ ██ &nbsp;&nbsp;██ &nbsp;&nbsp;██ ██ &nbsp;&nbsp;&nbsp;██ ▀████ ██▀██ &nbsp;██ &nbsp;&nbsp;██ ▀███▀ ██ ▀██ ▄▄██▀
+
+Descripción:
+-------------
+Este archivo recopila las certificaciones y cursos relevantes
+que he completado, mostrando mi formación continua y conocimientos
+en desarrollo, tecnología y metodologías profesionales.
+
+Certificaciones principales:
+----------------------------
+- Fundamentos de la Inteligencia Artificial - OpenWebinars.
+- Python desde 0 - OpenWebinars.
+- Cuso de Apache Kafka desde cero - Udemy.
+- La Guía de Jenkins: ¡De Cero a Expero! - Udemy.
+- Spring Boot Framework 6 & Spring Boot 3 desde 0 a experto - Udemy.

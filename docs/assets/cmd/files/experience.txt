@@ -1,0 +1,69 @@
+                                                                              
+██▄ &nbsp;▄██ ██ &nbsp;██ &nbsp;&nbsp;██████ ██ &nbsp;██ █████▄ ██████ █████▄ &nbsp;██ ██████ ███ &nbsp;██ ▄█████ ██████ 
+██ ▀▀ ██ &nbsp;▀██▀ &nbsp;&nbsp;&nbsp;██▄▄ &nbsp;&nbsp;&nbsp;████ &nbsp;██▄▄█▀ ██▄▄ &nbsp;&nbsp;██▄▄██▄ ██ ██▄▄&nbsp;&nbsp;&nbsp;██ ▀▄██ ██ &nbsp;&nbsp;&nbsp;&nbsp;██▄▄   
+██ &nbsp;&nbsp;&nbsp;██ &nbsp;&nbsp;██ &nbsp;&nbsp;&nbsp;&nbsp;██▄▄▄▄ ██ &nbsp;██ ██ &nbsp;&nbsp;&nbsp;&nbsp;██▄▄▄▄ ██ &nbsp;&nbsp;██ ██ ██▄▄▄▄ ██ &nbsp;&nbsp;██ ▀█████ ██▄▄▄▄ 
+                                                                                      
+
+Mi trayectoria profesional como desarrollador FullStack ha estado profundamente marcada por mi paso por dos grandes compañías de consultoría tecnológica: primero NTT DATA, donde inicié mi carrera profesional como desarrollador backend, y después Ayesa, donde actualmente desempeño mis funciones ampliando mis responsabilidades hacia un perfil FullStack completo. Estas experiencias no solo me han permitido crecer técnicamente y adquirir un dominio real en el desarrollo de aplicaciones end-to-end, sino también comprender la importancia del trabajo en equipo, la metodología, la calidad del código y la adaptación constante en un sector que evoluciona de manera continua.
+
+Desde el inicio tuve claro que quería dedicarme al desarrollo de software. Me atraía la idea de construir soluciones desde cero, comprender cómo funcionaban las cosas por dentro y dar vida a ideas abstractas a través del código. Por eso, comenzar mi carrera en una empresa del calibre de NTT DATA representó un salto enorme, tanto a nivel formativo como profesional.
+
+AYESA FULLSTACK DEVELOPER - JULIO 2025 / ACTUALIDAD
+
+Tras finalizar mi etapa inicial en NTT DATA, di un paso importante en mi carrera profesional al incorporarme a Ayesa, empresa en la que actualmente trabajo. Este cambio representó para mí el verdadero salto hacia el perfil FullStack, permitiéndome participar tanto en la parte backend como en la parte frontend en un proyecto con el gobierno, ampliando mi visión global sobre el ciclo completo del desarrollo.
+
+En Ayesa he participado en proyectos de mayor complejidad, donde es fundamental comprender tanto la lógica interna como la experiencia de usuario. Aquí he podido aplicar todo lo aprendido en backend, incorporando además responsabilidades en la construcción de interfaces, en la optimización del rendimiento y en la comunicación fluida entre cliente y servidor.
+
+TECNOLOGÍAS Y ARQUITECTURA
+
+En el lado cliente, he trabajado principalmente con Angular, donde he profundizado en:
+
+- Arquitectura modular
+- Comunicación entre componentes
+- Servicios e inyección de dependencias
+- Guards, pipes y directivas personalizadas
+- Lazy loading y optimización de rendimiento
+- Manejo avanzado de formularios (reactivos)
+- Integración limpia con APIs REST
+- Organización escalable del proyecto
+- Estilos con CSS, SCSS y buenas prácticas visuales
+- (Ver más aptitudes en “Skills”)
+
+En Ayesa he continuado fortaleciendo mi base en backend. He participado también en:
+
+- Diseño y mantenimiento de scripts ORACLE SQL
+- Trabajo con DDL y DML
+- Estructuración correcta de tablas, índices, triggers y secuencias
+- Validación y control de integridad
+- Quarkus
+- ArgoCD
+- Microservicios
+- Jenkins
+- Git y GitLab
+- (Ver más aptitudes en “Skills”)
+
+NTT DATA BACKEND DEVELOPER - SEPTIEMBRE 2024 / FEBRERO 2025
+
+Mi experiencia en NTT DATA fue el punto de partida en mi carrera. Fue allí donde adquirí las bases más sólidas del desarrollo backend moderno y donde comprendí cómo funciona el desarrollo dentro de un ciclo profesional completo. Participé en proyectos reales para el sector bancario, dentro de un equipo multidisciplinar y siguiendo metodologías ágiles.
+
+Lo que más destaco de esta etapa es que no solo aprendí tecnologías, sino que aprendí a trabajar como desarrollador. Descubrí lo que significa colaborar en equipo, revisar código, documentar procesos, participar en dailies, estimar tareas y adaptarme a estándares exigentes de calidad y seguridad.
+
+TECNOLOGÍAS Y ARQUITECTURA
+
+Dentro de NTT DATA trabajé fundamentalmente con tecnologías y entornos propios de backend, especialmente:
+
+- Java
+- Spring Boot
+- APIs REST
+- PostgresSQL
+- JPA/HIBERNATE
+- Diseño de servicios y controladores
+- Arquitectura Hexagonal
+- Jacoco (≥80% cobertura de tests)
+- Microservicios
+- Principios SOLID
+- Jira
+- Scrum (Daily, Refinement, Sprint Planning)
+(Puedes ver más aptitudes en el apartado de "skills")
+
+Esta etapa fue fundamental para construir la base de todo lo que hago hoy. Fue en NTT DATA donde aprendí a pensar como desarrollador profesional y donde entendí la responsabilidad que implica escribir código limpio, mantenible y escalable.
