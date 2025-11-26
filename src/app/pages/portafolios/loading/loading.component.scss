@@ -32,11 +32,35 @@
   }
 }
 
+// Animación
 @keyframes move-squares {
   0% {
     transform: translate(0, 0);
   }
   100% {
     transform: translate(-50px, -50px);
+  }
+}
+
+// Adaptación móvil
+@media (max-width: 768px) {
+  .loading-container {
+    gap: 5px;
+    padding: 1rem;
+  }
+
+  .loading-container::before {
+    background-size: 30px 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .loading-container {
+    gap: 3px;
+    padding: 0.5rem;
+  }
+
+  .loading-container::before {
+    background-size: 20px 20px;
   }
 }
