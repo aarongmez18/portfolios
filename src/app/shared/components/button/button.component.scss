@@ -1,0 +1,45 @@
+@import 'src/app/shared/styles/variables';
+
+button {
+  width: 22em;
+  height: 3em;
+  border-radius: 30em;
+  font-size: 10px;
+  font-family: $font-primary;
+  text-transform: uppercase;
+  border: none;
+  position: relative;
+  overflow: hidden;
+  z-index: 1;
+
+  // Sombra en tonos de negro/gris
+  box-shadow: 6px 6px 12px darken($color-background, 4%);
+  
+  background-color: $color-background;
+  color: $color-button-text;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+
+  &:hover {
+    transform: scale(1.05);
+  }
+}
+
+button::before {
+  content: '';
+  width: 0;
+  height: 3em;
+  border-radius: 30em;
+  position: absolute;
+  top: 0;
+  left: 0;
+  // Gradiente hover usando variables
+  background-image: linear-gradient(to right, $color-button-gradient-start, $color-button-gradient-end);
+  transition: 0.5s ease;
+  display: block;
+  z-index: -1;
+}
+
+button:hover::before {
+  width: 22em;
+}

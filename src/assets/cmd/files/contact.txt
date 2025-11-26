@@ -1,0 +1,24 @@
+                                                 
+▄█████ ▄████▄ ███ &nbsp;██ ██████ ▄████▄ ▄█████ ██████ 
+██ &nbsp;&nbsp;&nbsp;&nbsp;██ &nbsp;██ ██ ▀▄██ &nbsp;&nbsp;██ &nbsp;&nbsp;██▄▄██ ██ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██   
+▀█████ ▀████▀ ██ &nbsp;&nbsp;██ &nbsp;&nbsp;██ &nbsp;&nbsp;██ &nbsp;██ ▀█████ &nbsp;&nbsp;██ 
+
+Nombre: Aarón 
+Apellidos: Gómez Delgado.
+Edad: 23 años.
+Dirección: Sevilla, España.
+
+Correo electronico: aarongmez1@gmail.com
+Número de teléfono: +34 611 42 40 82
+
+Linkedin: aarongmez18
+Instagram: aarongmez18
+GitHub: aarongmez18
+
+Rol: Desarrollador Backend.
+Años de experiencia: 3.
+Especialidades: Java, Spring Boot, SQL, APIs REST, Angular, Git  
+Experiencia: Proyectos personales y grandes empresas.
+Disponibilidad: Remoto / Presencial / Hibrida
+Posibilidad de relocalización: Sí.
+

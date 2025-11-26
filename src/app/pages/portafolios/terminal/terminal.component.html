@@ -1,0 +1,23 @@
+<div class="cmd-container">
+  <p>Microsaft Windouze [Versión 255.255.255.4200]<br>© <a href="https://www.linkedin.com/in/aarongmez18/?locale=en" target="_blank">Aarón Gómez Delgado</a>. Todos los derechos reservados.</p>
+
+  <div class="cmd-output terminal" #terminal>
+    <div *ngFor="let line of output" [innerHTML]="line"></div>
+  </div>
+
+  <div *ngIf="contactFormVisible">
+  <app-contact-form (submitted)="onContactSubmitted($event)"></app-contact-form>
+</div>
+
+
+
+  <div class="cmd-input">
+    <span>C\Users\root{{ currentPath.length ? '\\' + currentPath.join('\\') : '' }}&gt;</span>
+    <input type="text" [(ngModel)]="command" (keydown.enter)="runCommand(terminal)" autofocus [disabled]="contactFormVisible" />
+  </div>
+</div>
+
+
+
+<app-snackbar [tipText]="tipText"></app-snackbar>
+

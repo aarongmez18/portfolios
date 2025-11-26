@@ -1,0 +1,37 @@
+@import 'src/app/shared/styles/variables';
+
+.snackbar {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  font-family: $font-primary;
+  border: 1px solid $color-text;
+  border-radius: 5px;
+  padding: 0.8rem 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  max-width: 500px;
+  z-index: 1000;
+  animation: fadeInOut 4s forwards;
+}
+
+.icon {
+  width: 50px;
+  height: 75px;
+  stroke: $color-text;
+}
+
+.tip-content {
+  font-size: 0.6rem;
+  line-height: 1.1rem;
+}
+
+/* animación para desaparecer */
+@keyframes fadeInOut {
+  0% { opacity: 0; transform: translateY(10px); }
+  10% { opacity: 1; transform: translateY(0); }
+  90% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(10px); }
+}

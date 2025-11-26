@@ -1,0 +1,21 @@
+{
+  "root": {
+    "about": {
+      "about.txt": "about.txt",
+      "experience.txt": "experience.txt",
+      "skills.txt": "skills.txt",
+      "certifications.txt": "certifications.txt"
+    },
+    "projects": {
+      "portfolio.txt": "projects-portfolio.txt",
+      "muchachos.txt": "projects-muchachos.txt",
+      "java_algorithms.txt": "projects-jalgorithms.txt",
+      "bankops.txt": "projects-bankops.txt"
+    },
+    "contact": {
+      "contact.txt": "contact.txt"
+    },
+    "snake": {}
+
+  }
+}

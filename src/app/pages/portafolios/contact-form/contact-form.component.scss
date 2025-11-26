@@ -1,0 +1,52 @@
+@import 'src/app/shared/styles/variables';
+
+.contact-form .form-row {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contact-form label {
+  width: 100px; 
+  margin-right: 10px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  background: transparent;
+  border: none;
+  color: white;
+   color: $color-text;
+  outline: none;
+  font-family: 'Courier New', monospace;
+  font-size: 1rem;
+  flex: 1;
+}
+
+.loader {
+  margin-top: 10px;
+  height: 20px;
+  background: transparent;
+  color: black;
+  position: relative;
+}
+
+.loader .bar {
+  height: 100%;
+  background: $color-text;
+  width: 0%;
+  transition: width 0.1s linear;
+}
+
+.loader span {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.error-message {
+  color: red;
+  font-size: 0.9em;
+  margin-top: 2px;
+}

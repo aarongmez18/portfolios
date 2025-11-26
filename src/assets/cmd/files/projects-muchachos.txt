@@ -1,0 +1,52 @@
+                                                                                          
+██▄&nbsp;&nbsp;▄██ ██ &nbsp;██ ▄█████ ██ &nbsp;██ ▄████▄ ▄█████ ██ &nbsp;██ ▄████▄ ▄█████ &nbsp;&nbsp;██ &nbsp;&nbsp;&nbsp;&nbsp;██ ██████ █████▄ 
+██ ▀▀ ██ ██ &nbsp;██ ██ &nbsp;&nbsp;&nbsp;&nbsp;██████ ██▄▄██ ██ &nbsp;&nbsp;&nbsp;&nbsp;██████ ██ &nbsp;██ ▀▀▀▄▄▄ &nbsp;&nbsp;██ ▄█▄ ██ ██▄▄ &nbsp;&nbsp;██▄▄██ 
+██ &nbsp;&nbsp;&nbsp;██ ▀████▀ ▀█████ ██ &nbsp;██ ██ &nbsp;██ ▀█████ ██ &nbsp;██ ▀████▀ █████▀ &nbsp;&nbsp;&nbsp;▀██▀██▀ &nbsp;██▄▄▄▄ ██▄▄█▀ 
+
+Fecha: Septiembre 2025 - Octubre 2025.
+
+Descripción:
+-------------
+Muchachos es una aplicación web de una asociación músical completa orientada a la gestión de usuarios
+y proyectos, con un panel de administración robusto y funcionalidades de
+autorización y autenticación. Está diseñada para ofrecer un entorno
+interactivo y seguro para la administración de datos y usuarios.
+
+Funcionalidades principales:
+-----------------------------
+- Gestión de usuarios con roles y permisos.
+- Autenticación y autorización segura.
+- Panel de administración para visualizar y modificar datos.
+- Integración con base de datos PostgreSQL.
+- Frontend desarrollado en Angular con navegación dinámica.
+- Backend en Java con API REST para manejo de datos.
+- Sistema de notificaciones y registro de actividad de usuarios.
+
+Tecnologías utilizadas:
+-----------------------
+- Angular 16
+- Java 21
+- Spring Boot
+- Spring JPA
+- Spring Security
+- Microservicios
+- Arquitectura Hexagonal
+- PostgreSQL
+- TypeScript
+- HTML/CSS/SCSS
+- REST API
+- Seguridad: JWT, roles y permisos
+- HttpClient para interacción frontend-backend
+- CSS/SCSS para diseño tipo panel administrativo y terminal en secciones
+- + Otras
+
+Objetivo:
+----------
+El proyecto tiene fines promocionales, mostrando cómo
+una asociación musical puede tener presencia web profesional,
+interactuar con su audiencia y mantener informados a sus seguidores
+sobre actuaciones y novedades.
+
+Enlace al repositorio:
+----------------------
+No disponible

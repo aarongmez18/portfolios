@@ -1,0 +1,51 @@
+<div class="contact-form">
+  <h4>Formulario de Contacto</h4>
+  <p>Se le enviara directamente un mensaje a Aarón con el siguiente asunto al rellenar sus datos, <br>recuerde pulsar la tecla "ENTER" para continuar.</p>
+  <p>Porfavor rellene los siguientes datos:</p>
+  <div class="form-row">
+    <label>Tu nombre:</label>
+    <input 
+      [(ngModel)]="name" 
+      (keydown.enter)="onEnterName()"
+      [disabled]="showEmail"
+      autofocus
+    />
+  </div>
+
+  <div class="form-row" *ngIf="showEmail">
+    <label>Tu email:</label>
+    <input 
+      [(ngModel)]="email" 
+      (keydown.enter)="onEnterEmail()"
+      [disabled]="showSubject"
+      autofocus
+    />
+  </div>
+  <div class="error-message" *ngIf="emailError">{{ emailError }}</div>
+
+  <div class="form-row" *ngIf="showSubject">
+    <label>Asunto:</label>
+    <input 
+      [(ngModel)]="subject"  
+      (keydown.enter)="onEnterSubject()"
+      [disabled]="showMessage"
+      autofocus
+    />
+  </div>
+
+  <div class="form-row" *ngIf="showMessage">
+    <label>Mensaje:</label>
+    <textarea 
+      [(ngModel)]="message" 
+      (keydown.enter)="startLoadingAndSend()"
+      [disabled]="loading"
+      autofocus
+    ></textarea>
+  </div>
+
+  <div *ngIf="loading" class="loader">
+    <div class="bar" [style.width.%]="progress"></div>
+    <span>{{progress}}%</span>
+  </div>
+
+</div>
